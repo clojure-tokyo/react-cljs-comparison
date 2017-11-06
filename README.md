@@ -18,4 +18,3 @@ Here is a list of other links and resources we might want to check:
 - Blog article: [Om vs Reagent vs Quiescent, Converting to Om](http://pchristensen.com/blog/articles/sfcljs-august-meetup-om/)
 - Reddit post: [ClojureScript/React - Reagent vs. Om?](https://www.reddit.com/r/Clojure/comments/22qjre/clojurescriptreact_reagent_vs_om/)
 - Reddit post: [What is your favorite React.js interface for Clojurescript?](https://www.reddit.com/r/Clojure/comments/4dkny3/what_is_your_favorite_reactjs_interface_for/)
-- Reddit post: [What is your favorite React.js interface for Clojurescript?](https://www.reddit.com/r/Clojure/comments/4dkny3/what_is_your_favorite_reactjs_interface_for/)
